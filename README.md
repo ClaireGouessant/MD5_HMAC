@@ -1,2 +1,2 @@
-# MD5_SHA
-Implémentation de fonctions de chiffrage MD5 et SHA
+# MD5_HMAC
+Implémentation de fonctions de chiffrage MD5 et HMAC
