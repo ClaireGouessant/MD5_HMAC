@@ -7,5 +7,5 @@ Le code est disponible dans le répertoire src et le fichier MD51.java.
 
 Voici un exemple d'utilisation du programme :
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/MD5_HMAC/blob/master/MD5.PNG" width="350"/>
+  <img src="https://github.com/ClaireGouessant/MD5_HMAC/blob/master/MD5.PNG" width="1000"/>
 </p>
